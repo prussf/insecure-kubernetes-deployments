@@ -1,4 +1,4 @@
-flask==3.0.2
+flask==3.1.3
 latio==1.2.5
 python-magic==0.4.27
 Werkzeug==3.0.1 
